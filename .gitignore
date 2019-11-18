@@ -1,0 +1,4 @@
+__pycache__/
+*.png
+*.csv
+export_from_python.txt
